@@ -1,0 +1,15 @@
+{
+    "name": "atm-cassettes",
+    "version": "0.1.0",
+    "description": "ATM Cassettes Service",
+    "main": "lib/cassettes.js",
+    "license": "LGPL-2.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jrodriguesd/atm-cassettes.git"
+    },
+    "author": {
+        "name": "Jose Rodrigues",
+        "email": "jrodriguesd@gmail.com"
+    }
+}
